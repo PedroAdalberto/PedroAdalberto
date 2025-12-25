@@ -35,8 +35,8 @@ Busco sempre melhorar e me aperfeiçoar em desenvolvimento!
 
 <br />
 
-[![Meu github stats](https://github-readme-stats.vercel.app/api?username=PedroAdalberto&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
+[![Meu github stats](https://github-readme-stats.vercel.app/api?username=PedroAdalberto&show_icons=true&theme=buefy)](https://github.com/PedroAdalberto/github-readme-stats)
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAdalberto&layout=compact&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAdalberto&layout=compact&show_icons=true&theme=buefy)](https://github.com/PedroAdalberto/github-readme-stats)
