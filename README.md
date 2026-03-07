@@ -43,6 +43,14 @@ Busco sempre melhorar e me aperfeiçoar em desenvolvimento!
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Node"
+    title="Node" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvXnQDVwDj8wqp_mgvACXgDgmVwqd6rfQODQ&s" 
+/>
 
 <br/>
 <br/>
