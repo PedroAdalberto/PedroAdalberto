@@ -1,9 +1,9 @@
 # 💻 Pedro Adalberto
 
-**`Desenvolvedor e estudante de FullStack`**
+**`Desenvolvedor FullStack`**
 <br>
 <br>
-Me chamo Pedro Adalberto, tenho 14 anos e estou estudando Full Stack, gosto muito desta área e estou me especializando a cada dia mais.
+Me chamo Pedro Adalberto, tenho 15 anos e sou desenvolvedor Full Stack, gosto muito desta área e estou me especializando a cada dia mais.
 Busco sempre melhorar e me aperfeiçoar em desenvolvimento!
 
 
